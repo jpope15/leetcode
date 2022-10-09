@@ -14,5 +14,6 @@ Contains Links to my solutions.
   * [217. Contains Duplicate](Arrays_And_Hashing/217_Contains_Duplicate/solution.cpp)
   * [242. Valid Anagram](Arrays_And_Hashing/242_Valid_Anagram/solution.cpp)
   * [392. Is Subsequence](Arrays_And_Hashing/392_Is_Subsequence/solution.cpp)
+  * [929. Unique Email Addresses](Arrays_And_Hashing/929_Unique_Email_Addresses/solution.cpp)
   * [1299. Replace Elements With Greatest Elements on Right Side](Arrays_And_Hashing/1299_Replace_Elements_with_Greatest_Element_on_Right_Side/solution.cpp)
   
