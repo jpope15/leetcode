@@ -12,6 +12,7 @@ Contains Links to my solutions.
   * [49. Group Anagrams](Arrays_And_Hashing/49_Group_Anagrams/solution.cpp)
   * [58. Length of Last Word](Arrays_And_Hashing/58_Length_of_Last_Word/solution.cpp)
   * [118. Pascals Triangle](Arrays_And_Hashing/118_Pascals_Triangle/solution.cpp)
+  * [128. Longest Consecutive Sequence](Arrays_And_Hashing/128_Longest_Consecutive_Sequence/solution.cpp)
   * [217. Contains Duplicate](Arrays_And_Hashing/217_Contains_Duplicate/solution.cpp)
   * [238. Product of Array Except Self](Arrays_And_Hashing/238_Product_Of_Array_Except_Self/Solution.cpp)
   * [205. Isomorphic Strings](Arrays_And_Hashing/205_Isomorphic_Strings/solution.cpp)
