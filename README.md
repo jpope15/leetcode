@@ -19,3 +19,5 @@ Contains Links to my solutions.
   * [929. Unique Email Addresses](Arrays_And_Hashing/929_Unique_Email_Addresses/solution.cpp)
   * [1299. Replace Elements With Greatest Elements on Right Side](Arrays_And_Hashing/1299_Replace_Elements_with_Greatest_Element_on_Right_Side/solution.cpp)
   
+* **Heap/Priority Queue**
+  * [347. Top K Frequent Elements](Heap_or_Priority_Queue/347_Top_K_Frequent_Elements/solution.cpp)
