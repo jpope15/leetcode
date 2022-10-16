@@ -32,4 +32,5 @@ Contains Links to my solutions.
 * **Heap/Priority Queue**
   * [347. Top K Frequent Elements](Heap_or_Priority_Queue/347_Top_K_Frequent_Elements/solution.cpp)
 
-
+* **Sliding Window**
+  * [1984. Minimum Difference Between Highest and Lowest of K Scores](Sliding_Window/1984_Minimum_Difference_Between_Highest_And_Lowest_Of_K_Scores/solution.cpp)
