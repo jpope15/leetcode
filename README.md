@@ -1,5 +1,5 @@
 # Leetcode Solutions
-A collection of the leetcode problems I have solved.
+A collection of the leetcode problems I have solved in the past year.
 
 [Link to my Leetcode Account](https://leetcode.com/jamespope/)
 
