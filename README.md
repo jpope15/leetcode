@@ -1,10 +1,13 @@
 # Leetcode Solutions
+
 A collection of the leetcode problems I have solved in the past year.
 
 [Link to my Leetcode Account](https://leetcode.com/jamespope/)
 
 ## Problems Directory
+
 Contains Links to my solutions.
+
 * **Arrays and Hashing**
   * [1. Two Sum](Arrays_And_Hashing/1_Two_Sum/solution.cpp)
   * [14. Longest Common Prefix](Arrays_And_Hashing/%2014_Longest_Common_Prefix/solution.cpp)
@@ -21,7 +24,6 @@ Contains Links to my solutions.
   * [929. Unique Email Addresses](Arrays_And_Hashing/929_Unique_Email_Addresses/solution.cpp)
   * [1299. Replace Elements With Greatest Elements on Right Side](Arrays_And_Hashing/1299_Replace_Elements_with_Greatest_Element_on_Right_Side/solution.cpp)
 
-  
 * **Two Pointers**
   * [11. Container with Most Water](Two_Pointers/11_Container_With_Most_Water/solution.cpp)
   * [42. Trapping Rain Water](Two_Pointers/42_Trapping_Rain_Water/solution.cpp)
