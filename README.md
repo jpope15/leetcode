@@ -35,5 +35,6 @@ Contains Links to my solutions.
   * [347. Top K Frequent Elements](Heap_or_Priority_Queue/347_Top_K_Frequent_Elements/solution.cpp)
 
 * **Sliding Window**
+  * [3. Longest Substring without Repeating Characters](Sliding_Window/3_Longest_Substring_Without_Repeating_Characters/solution.cpp)
   * [121. Best Time to Buy and Sell Stock](Sliding_Window/121_Best_Time_To_Buy_And_Sell_Stock/solution.cpp)
   * [1984. Minimum Difference Between Highest and Lowest of K Scores](Sliding_Window/1984_Minimum_Difference_Between_Highest_And_Lowest_Of_K_Scores/solution.cpp)
