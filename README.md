@@ -40,3 +40,6 @@ Contains Links to my solutions.
   * [424. Longest Repeating Character Replacement](Sliding_Window/424_Longest_Repeating_Character_Replacement/solution.cpp)
   * [567. Permutation in String](Sliding_Window/567_Permutation_In_String/solution.cpp)
   * [1984. Minimum Difference Between Highest and Lowest of K Scores](Sliding_Window/1984_Minimum_Difference_Between_Highest_And_Lowest_Of_K_Scores/solution.cpp)
+
+* **Stack**
+  * [150. Evaluate Reverse Polish Notation](Stack/150_Evaluate_Reverse_Polish_Notation/solution.cpp)
